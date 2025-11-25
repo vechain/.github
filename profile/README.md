@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.vechain.org/vechainthor/">
+  <a href="https://www.vechain.org/">
     <picture style="padding: 80px;">
         <img src="assets/banner.png" style="padding: 20px;">
     </picture>
